@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursos</title>
+    <script src="/static/js/main.js"></script>
+    <style>
+        .course-item {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Cursos Disponibles</h2>
+    <div id="courseList">Cargando cursos...</div>
+
+    <h2>Crear Curso</h2>
+    <form id="courseForm">
+        <input type="text" id="title" placeholder="Título" required>
+        <textarea id="description" placeholder="Descripción"></textarea>
+        <input type="text" id="instructor" placeholder="Instructor" required>
+        <input type="number" id="duration" placeholder="Duración (horas)" required>
+        <input type="number" id="enrollment_limit" placeholder="Límite de Inscripción">
+        <button type="submit">Crear Curso</button>
+    </form>
+
+    <script>
+        // Cargar la lista de cursos al cargar la página
+        document.addEventListener("DOMContentLoaded", fetchCourses);
+
+        // Manejar la creación de cursos
+        document.getElementById("courseForm").addEventListener("submit", async (e) => {
+            e.preventDefault();
+
+            const courseData = {
+                title: document.getElementById("title").value,
+                description: document.getElementById("description").value,
+                instructor: document.getElementById("instructor").value,
+                duration: parseInt(document.getElementById("duration").value),
+                enrollment_limit: parseInt(document.getElementById("enrollment_limit").value) || null
+            };
+
+            await createCourse(courseData);
+            await fetchCourses(); // Recargar la lista de cursos después de crear uno
+        });
+    </script>
+</body>
+</html>

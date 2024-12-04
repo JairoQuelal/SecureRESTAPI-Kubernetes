@@ -1,0 +1,862 @@
+2024-11-27 12:04:09,084 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 12:04:09,084 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 12:04:09,087 - INFO -  * Restarting with stat
+2024-11-27 12:04:10,406 - WARNING -  * Debugger is active!
+2024-11-27 12:04:10,414 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 12:04:21,651 - INFO - 127.0.0.1 - - [27/Nov/2024 12:04:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-27 12:04:21,987 - INFO - 127.0.0.1 - - [27/Nov/2024 12:04:21] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-27 12:04:22,109 - INFO - 127.0.0.1 - - [27/Nov/2024 12:04:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-27 12:04:22,398 - INFO - 127.0.0.1 - - [27/Nov/2024 12:04:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-27 12:04:22,897 - INFO - 127.0.0.1 - - [27/Nov/2024 12:04:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-27 12:05:02,899 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:02] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-27 12:05:03,269 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-27 12:05:03,270 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-27 12:05:03,994 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:03] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-27 12:05:04,637 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-27 12:05:21,073 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 12:05:21,073 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 12:05:21,076 - INFO -  * Restarting with stat
+2024-11-27 12:05:22,374 - WARNING -  * Debugger is active!
+2024-11-27 12:05:22,380 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 12:05:24,614 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-27 12:05:24,909 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:24] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-27 12:05:24,960 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:24] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-27 12:05:25,604 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-27 12:05:26,024 - INFO - 127.0.0.1 - - [27/Nov/2024 12:05:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-27 12:18:09,700 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 12:18:09,700 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 12:18:09,702 - INFO -  * Restarting with stat
+2024-11-27 12:18:10,617 - WARNING -  * Debugger is active!
+2024-11-27 12:18:10,621 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 12:18:15,801 - INFO - 127.0.0.1 - - [27/Nov/2024 12:18:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-27 12:18:16,092 - INFO - 127.0.0.1 - - [27/Nov/2024 12:18:16] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-27 12:18:16,156 - INFO - 127.0.0.1 - - [27/Nov/2024 12:18:16] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-27 12:18:16,400 - INFO - 127.0.0.1 - - [27/Nov/2024 12:18:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-27 12:19:26,972 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 12:19:26,972 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 12:19:26,974 - INFO -  * Restarting with stat
+2024-11-27 12:19:27,844 - WARNING -  * Debugger is active!
+2024-11-27 12:19:27,848 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 12:19:33,222 - INFO - 127.0.0.1 - - [27/Nov/2024 12:19:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-27 12:19:33,357 - INFO - 127.0.0.1 - - [27/Nov/2024 12:19:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-27 12:19:33,362 - INFO - 127.0.0.1 - - [27/Nov/2024 12:19:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-27 12:19:33,379 - INFO - 127.0.0.1 - - [27/Nov/2024 12:19:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-27 12:19:33,899 - INFO - 127.0.0.1 - - [27/Nov/2024 12:19:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-27 13:18:18,033 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 13:18:18,034 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 13:18:18,036 - INFO -  * Restarting with stat
+2024-11-27 13:18:18,959 - WARNING -  * Debugger is active!
+2024-11-27 13:18:18,967 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 13:18:29,039 - INFO - 127.0.0.1 - - [27/Nov/2024 13:18:29] "GET / HTTP/1.1" 200 -
+2024-11-27 13:18:29,355 - INFO - 127.0.0.1 - - [27/Nov/2024 13:18:29] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-11-27 13:18:29,408 - INFO - 127.0.0.1 - - [27/Nov/2024 13:18:29] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 13:18:29,700 - INFO - 127.0.0.1 - - [27/Nov/2024 13:18:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-27 13:18:38,776 - INFO - 127.0.0.1 - - [27/Nov/2024 13:18:38] "GET /login HTTP/1.1" 200 -
+2024-11-27 13:18:41,941 - INFO - 127.0.0.1 - - [27/Nov/2024 13:18:41] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:21:47,081 - INFO - 127.0.0.1 - - [27/Nov/2024 13:21:47] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:22:34,215 - INFO - 127.0.0.1 - - [27/Nov/2024 13:22:34] "GET /login HTTP/1.1" 200 -
+2024-11-27 13:22:36,961 - INFO - 127.0.0.1 - - [27/Nov/2024 13:22:36] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:23:11,812 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 13:23:11,813 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 13:23:11,815 - INFO -  * Restarting with stat
+2024-11-27 13:23:12,724 - WARNING -  * Debugger is active!
+2024-11-27 13:23:12,728 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 13:24:39,168 - INFO - 127.0.0.1 - - [27/Nov/2024 13:24:39] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:29:08,726 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 13:29:08,726 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 13:29:08,728 - INFO -  * Restarting with stat
+2024-11-27 13:29:09,579 - WARNING -  * Debugger is active!
+2024-11-27 13:29:09,583 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 13:29:13,248 - INFO - 127.0.0.1 - - [27/Nov/2024 13:29:13] "GET / HTTP/1.1" 200 -
+2024-11-27 13:29:13,543 - INFO - 127.0.0.1 - - [27/Nov/2024 13:29:13] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-11-27 13:29:13,602 - INFO - 127.0.0.1 - - [27/Nov/2024 13:29:13] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 13:29:22,242 - INFO - 127.0.0.1 - - [27/Nov/2024 13:29:22] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:29:24,541 - INFO - 127.0.0.1 - - [27/Nov/2024 13:29:24] "GET /login HTTP/1.1" 200 -
+2024-11-27 13:29:26,441 - INFO - 127.0.0.1 - - [27/Nov/2024 13:29:26] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:29:26,772 - INFO - 127.0.0.1 - - [27/Nov/2024 13:29:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 13:29:26,773 - INFO - 127.0.0.1 - - [27/Nov/2024 13:29:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 13:29:27,117 - INFO - 127.0.0.1 - - [27/Nov/2024 13:29:27] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:30:49,002 - INFO - 127.0.0.1 - - [27/Nov/2024 13:30:49] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 13:30:53,045 - INFO - 127.0.0.1 - - [27/Nov/2024 13:30:53] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 13:31:02,697 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:02] "GET /login HTTP/1.1" 200 -
+2024-11-27 13:31:04,424 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:04] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:31:06,524 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:06] "GET / HTTP/1.1" 200 -
+2024-11-27 13:31:06,792 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 13:31:06,854 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:06] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 13:31:42,164 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:42] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:31:42,510 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 13:31:42,511 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 13:31:42,809 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:42] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:31:49,560 - INFO - 127.0.0.1 - - [27/Nov/2024 13:31:49] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 13:34:13,949 - INFO - 127.0.0.1 - - [27/Nov/2024 13:34:13] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:34:14,208 - INFO - 127.0.0.1 - - [27/Nov/2024 13:34:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 13:34:14,296 - INFO - 127.0.0.1 - - [27/Nov/2024 13:34:14] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 13:34:14,614 - INFO - 127.0.0.1 - - [27/Nov/2024 13:34:14] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:34:15,995 - INFO - 127.0.0.1 - - [27/Nov/2024 13:34:15] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:34:18,643 - INFO - 127.0.0.1 - - [27/Nov/2024 13:34:18] "GET /login HTTP/1.1" 200 -
+2024-11-27 13:35:05,985 - INFO -  * Detected change in 'c:\\Users\\SUPERTRONICA\\OneDrive - yachaytech.edu.ec\\Escritorio\\Final project\\app.py', reloading
+2024-11-27 13:35:06,129 - INFO -  * Restarting with stat
+2024-11-27 13:35:07,125 - WARNING -  * Debugger is active!
+2024-11-27 13:35:07,129 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 13:35:12,138 - INFO - 127.0.0.1 - - [27/Nov/2024 13:35:12] "GET / HTTP/1.1" 200 -
+2024-11-27 13:35:12,452 - INFO - 127.0.0.1 - - [27/Nov/2024 13:35:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 13:35:12,480 - INFO - 127.0.0.1 - - [27/Nov/2024 13:35:12] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 13:35:14,235 - INFO - 127.0.0.1 - - [27/Nov/2024 13:35:14] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:35:21,697 - INFO - 127.0.0.1 - - [27/Nov/2024 13:35:21] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:35:21,961 - INFO - 127.0.0.1 - - [27/Nov/2024 13:35:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 13:35:22,040 - INFO - 127.0.0.1 - - [27/Nov/2024 13:35:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 13:35:22,403 - INFO - 127.0.0.1 - - [27/Nov/2024 13:35:22] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:36:03,086 - INFO - 127.0.0.1 - - [27/Nov/2024 13:36:03] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 13:36:08,173 - INFO - 127.0.0.1 - - [27/Nov/2024 13:36:08] "GET /login HTTP/1.1" 200 -
+2024-11-27 13:45:22,099 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 13:45:22,099 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 13:45:22,102 - INFO -  * Restarting with stat
+2024-11-27 13:45:23,021 - WARNING -  * Debugger is active!
+2024-11-27 13:45:23,026 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 13:45:26,989 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:26] "GET / HTTP/1.1" 200 -
+2024-11-27 13:45:27,296 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 13:45:27,327 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 13:45:29,218 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:29] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:45:37,721 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:37] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:45:37,987 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 13:45:38,064 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 13:45:38,447 - INFO - 127.0.0.1 - - [27/Nov/2024 13:45:38] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:47:01,232 - INFO - 127.0.0.1 - - [27/Nov/2024 13:47:01] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 13:56:01,401 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 13:56:01,402 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 13:56:01,404 - INFO -  * Restarting with stat
+2024-11-27 13:56:02,333 - WARNING -  * Debugger is active!
+2024-11-27 13:56:02,337 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 13:56:04,903 - INFO - 127.0.0.1 - - [27/Nov/2024 13:56:04] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:56:09,968 - INFO - 127.0.0.1 - - [27/Nov/2024 13:56:09] "GET / HTTP/1.1" 200 -
+2024-11-27 13:56:10,414 - INFO - 127.0.0.1 - - [27/Nov/2024 13:56:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 13:56:10,443 - INFO - 127.0.0.1 - - [27/Nov/2024 13:56:10] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 13:56:11,915 - INFO - 127.0.0.1 - - [27/Nov/2024 13:56:11] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:57:11,369 - INFO - 127.0.0.1 - - [27/Nov/2024 13:57:11] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:57:39,962 - INFO - 127.0.0.1 - - [27/Nov/2024 13:57:39] "GET /courses HTTP/1.1" 200 -
+2024-11-27 13:57:42,122 - INFO - 127.0.0.1 - - [27/Nov/2024 13:57:42] "GET /register HTTP/1.1" 200 -
+2024-11-27 13:57:43,742 - INFO - 127.0.0.1 - - [27/Nov/2024 13:57:43] "GET /login HTTP/1.1" 200 -
+2024-11-27 14:05:53,266 - INFO - select pg_catalog.version()
+2024-11-27 14:05:53,266 - INFO - [raw sql] {}
+2024-11-27 14:05:53,267 - INFO - select current_schema()
+2024-11-27 14:05:53,268 - INFO - [raw sql] {}
+2024-11-27 14:05:53,269 - INFO - show standard_conforming_strings
+2024-11-27 14:05:53,269 - INFO - [raw sql] {}
+2024-11-27 14:05:53,270 - INFO - BEGIN (implicit)
+2024-11-27 14:05:53,274 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:05:53,275 - INFO - [generated in 0.00135s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:05:53,280 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:05:53,282 - INFO - [cached since 0.008697s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:05:53,284 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:05:53,285 - INFO - [cached since 0.01147s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:05:53,286 - INFO - COMMIT
+2024-11-27 14:05:53,332 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 14:05:53,332 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 14:05:53,335 - INFO -  * Restarting with stat
+2024-11-27 14:05:54,720 - INFO - select pg_catalog.version()
+2024-11-27 14:05:54,722 - INFO - [raw sql] {}
+2024-11-27 14:05:54,723 - INFO - select current_schema()
+2024-11-27 14:05:54,724 - INFO - [raw sql] {}
+2024-11-27 14:05:54,724 - INFO - show standard_conforming_strings
+2024-11-27 14:05:54,725 - INFO - [raw sql] {}
+2024-11-27 14:05:54,726 - INFO - BEGIN (implicit)
+2024-11-27 14:05:54,731 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:05:54,733 - INFO - [generated in 0.00195s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:05:54,738 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:05:54,739 - INFO - [cached since 0.008496s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:05:54,741 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:05:54,742 - INFO - [cached since 0.0111s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:05:54,743 - INFO - COMMIT
+2024-11-27 14:05:54,771 - WARNING -  * Debugger is active!
+2024-11-27 14:05:54,775 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 14:06:10,988 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:10] "GET / HTTP/1.1" 200 -
+2024-11-27 14:06:11,325 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 14:06:11,331 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:11] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 14:06:13,649 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:13] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:06:13,996 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:13] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:06:22,744 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:22] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 14:06:39,078 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:39] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 14:06:45,328 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:45] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 14:06:50,586 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:50] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 14:06:53,967 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:53] "GET /register HTTP/1.1" 200 -
+2024-11-27 14:06:54,328 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:54] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:06:59,215 - INFO - BEGIN (implicit)
+2024-11-27 14:06:59,220 - INFO - SELECT "user".id AS user_id, "user".username AS user_username, "user".password_hash AS user_password_hash, "user".role AS user_role 
+FROM "user" 
+WHERE "user".username = %(username_1)s 
+ LIMIT %(param_1)s
+2024-11-27 14:06:59,221 - INFO - [generated in 0.00148s] {'username_1': 'jairo', 'param_1': 1}
+2024-11-27 14:06:59,569 - INFO - INSERT INTO "user" (username, password_hash, role) VALUES (%(username)s, %(password_hash)s, %(role)s) RETURNING "user".id
+2024-11-27 14:06:59,570 - INFO - [generated in 0.00114s] {'username': 'jairo', 'password_hash': '$2b$12$Q1/RLqPFU4qg9Hm6uhM8DO95tPtwQgaOyqfX.7EjuEdCQb28i.Drq', 'role': 'user'}
+2024-11-27 14:06:59,617 - INFO - COMMIT
+2024-11-27 14:06:59,620 - INFO - User Registration: User 'jairo' registered with role 'user'
+2024-11-27 14:06:59,620 - INFO - 127.0.0.1 - - [27/Nov/2024 14:06:59] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-11-27 14:08:11,674 - INFO - 127.0.0.1 - - [27/Nov/2024 14:08:11] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:08:11,939 - INFO - 127.0.0.1 - - [27/Nov/2024 14:08:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:08:31,916 - INFO - 127.0.0.1 - - [27/Nov/2024 14:08:31] "[31m[1mPOST /courses HTTP/1.1[0m" 422 -
+2024-11-27 14:10:28,576 - INFO - 127.0.0.1 - - [27/Nov/2024 14:10:28] "GET /login HTTP/1.1" 200 -
+2024-11-27 14:10:30,803 - INFO - 127.0.0.1 - - [27/Nov/2024 14:10:30] "GET /register HTTP/1.1" 200 -
+2024-11-27 14:10:31,147 - INFO - 127.0.0.1 - - [27/Nov/2024 14:10:31] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:12:20,768 - INFO -  * Detected change in 'c:\\Users\\SUPERTRONICA\\OneDrive - yachaytech.edu.ec\\Escritorio\\Final project\\app.py', reloading
+2024-11-27 14:12:21,003 - INFO -  * Restarting with stat
+2024-11-27 14:12:22,267 - INFO - select pg_catalog.version()
+2024-11-27 14:12:22,268 - INFO - [raw sql] {}
+2024-11-27 14:12:22,270 - INFO - select current_schema()
+2024-11-27 14:12:22,270 - INFO - [raw sql] {}
+2024-11-27 14:12:22,271 - INFO - show standard_conforming_strings
+2024-11-27 14:12:22,271 - INFO - [raw sql] {}
+2024-11-27 14:12:22,272 - INFO - BEGIN (implicit)
+2024-11-27 14:12:22,278 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:12:22,279 - INFO - [generated in 0.00126s] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:12:22,284 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:12:22,284 - INFO - [cached since 0.007679s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:12:22,287 - INFO - COMMIT
+2024-11-27 14:12:22,311 - WARNING -  * Debugger is active!
+2024-11-27 14:12:22,317 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 14:13:21,671 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:21] "GET / HTTP/1.1" 200 -
+2024-11-27 14:13:21,991 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:21] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 14:13:22,060 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:22] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 14:13:24,077 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:24] "[31m[1mGET /courses HTTP/1.1[0m" 405 -
+2024-11-27 14:13:27,233 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:27] "[31m[1mGET /courses HTTP/1.1[0m" 405 -
+2024-11-27 14:13:42,068 - INFO -  * Detected change in 'c:\\Users\\SUPERTRONICA\\OneDrive - yachaytech.edu.ec\\Escritorio\\Final project\\app.py', reloading
+2024-11-27 14:13:42,173 - INFO -  * Restarting with stat
+2024-11-27 14:13:43,376 - INFO - select pg_catalog.version()
+2024-11-27 14:13:43,377 - INFO - [raw sql] {}
+2024-11-27 14:13:43,378 - INFO - select current_schema()
+2024-11-27 14:13:43,379 - INFO - [raw sql] {}
+2024-11-27 14:13:43,379 - INFO - show standard_conforming_strings
+2024-11-27 14:13:43,380 - INFO - [raw sql] {}
+2024-11-27 14:13:43,382 - INFO - BEGIN (implicit)
+2024-11-27 14:13:43,386 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:13:43,387 - INFO - [generated in 0.00142s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:13:43,392 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:13:43,393 - INFO - [cached since 0.00718s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:13:43,394 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 14:13:43,394 - INFO - [cached since 0.009349s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 14:13:43,397 - INFO - COMMIT
+2024-11-27 14:13:43,422 - WARNING -  * Debugger is active!
+2024-11-27 14:13:43,430 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 14:13:46,621 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:46] "GET / HTTP/1.1" 200 -
+2024-11-27 14:13:46,945 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 14:13:46,979 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:46] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 14:13:48,558 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:48] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:13:48,939 - INFO - 127.0.0.1 - - [27/Nov/2024 14:13:48] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:23:07,836 - INFO - 127.0.0.1 - - [27/Nov/2024 14:23:07] "GET / HTTP/1.1" 200 -
+2024-11-27 14:23:08,088 - INFO - 127.0.0.1 - - [27/Nov/2024 14:23:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 14:23:08,169 - INFO - 127.0.0.1 - - [27/Nov/2024 14:23:08] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:23:09,895 - INFO - 127.0.0.1 - - [27/Nov/2024 14:23:09] "GET /login HTTP/1.1" 200 -
+2024-11-27 14:23:10,247 - INFO - 127.0.0.1 - - [27/Nov/2024 14:23:10] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:23:41,785 - INFO - BEGIN (implicit)
+2024-11-27 14:23:41,789 - INFO - SELECT "user".id AS user_id, "user".username AS user_username, "user".password_hash AS user_password_hash, "user".role AS user_role 
+FROM "user" 
+WHERE "user".username = %(username_1)s 
+ LIMIT %(param_1)s
+2024-11-27 14:23:41,790 - INFO - [generated in 0.00103s] {'username_1': 'jairo', 'param_1': 1}
+2024-11-27 14:23:42,077 - INFO - User Login: User 'jairo' logged in
+2024-11-27 14:23:42,078 - INFO - ROLLBACK
+2024-11-27 14:23:42,079 - INFO - 127.0.0.1 - - [27/Nov/2024 14:23:42] "POST /login HTTP/1.1" 200 -
+2024-11-27 14:23:46,118 - INFO - 127.0.0.1 - - [27/Nov/2024 14:23:46] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:23:46,406 - INFO - 127.0.0.1 - - [27/Nov/2024 14:23:46] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 14:23:53,307 - INFO - 127.0.0.1 - - [27/Nov/2024 14:23:53] "[31m[1mPOST /courses HTTP/1.1[0m" 403 -
+2024-11-27 14:25:05,311 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:05] "GET /register HTTP/1.1" 200 -
+2024-11-27 14:25:05,551 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:05] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:25:13,631 - INFO - BEGIN (implicit)
+2024-11-27 14:25:13,631 - INFO - SELECT "user".id AS user_id, "user".username AS user_username, "user".password_hash AS user_password_hash, "user".role AS user_role 
+FROM "user" 
+WHERE "user".username = %(username_1)s 
+ LIMIT %(param_1)s
+2024-11-27 14:25:13,632 - INFO - [cached since 91.84s ago] {'username_1': 'admin', 'param_1': 1}
+2024-11-27 14:25:13,969 - INFO - INSERT INTO "user" (username, password_hash, role) VALUES (%(username)s, %(password_hash)s, %(role)s) RETURNING "user".id
+2024-11-27 14:25:13,970 - INFO - [generated in 0.00083s] {'username': 'admin', 'password_hash': '$2b$12$uRthnkgPkNV41OARN8aNv.df9/E9gGJ22Nl/GIAqLye9NIJue.9Oe', 'role': 'admin'}
+2024-11-27 14:25:13,972 - INFO - COMMIT
+2024-11-27 14:25:13,974 - INFO - User Registration: User 'admin' registered with role 'admin'
+2024-11-27 14:25:13,974 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:13] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-11-27 14:25:17,242 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:17] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:25:17,492 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:17] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:25:19,627 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:19] "GET /login HTTP/1.1" 200 -
+2024-11-27 14:25:19,985 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:25:26,022 - INFO - BEGIN (implicit)
+2024-11-27 14:25:26,023 - INFO - SELECT "user".id AS user_id, "user".username AS user_username, "user".password_hash AS user_password_hash, "user".role AS user_role 
+FROM "user" 
+WHERE "user".username = %(username_1)s 
+ LIMIT %(param_1)s
+2024-11-27 14:25:26,024 - INFO - [cached since 104.2s ago] {'username_1': 'admin', 'param_1': 1}
+2024-11-27 14:25:26,355 - INFO - User Login: User 'admin' logged in
+2024-11-27 14:25:26,355 - INFO - ROLLBACK
+2024-11-27 14:25:26,357 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:26] "POST /login HTTP/1.1" 200 -
+2024-11-27 14:25:28,168 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:28] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:25:28,431 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:25:32,244 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:32] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:25:32,594 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:32] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:25:45,183 - INFO - BEGIN (implicit)
+2024-11-27 14:25:45,184 - INFO - INSERT INTO course (title, description, instructor, duration, enrollment_limit) VALUES (%(title)s, %(description)s, %(instructor)s, %(duration)s, %(enrollment_limit)s) RETURNING course.id
+2024-11-27 14:25:45,185 - INFO - [generated in 0.00055s] {'title': 'aaa', 'description': 'aaa', 'instructor': 'Rigoberto Fonseca', 'duration': 12, 'enrollment_limit': 3}
+2024-11-27 14:25:45,188 - INFO - COMMIT
+2024-11-27 14:25:45,215 - INFO - Course Created: Course 'aaa' created by admin
+2024-11-27 14:25:45,216 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:45] "[35m[1mPOST /courses HTTP/1.1[0m" 201 -
+2024-11-27 14:25:49,792 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:49] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:25:50,041 - INFO - 127.0.0.1 - - [27/Nov/2024 14:25:50] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:29:05,131 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:05] "GET / HTTP/1.1" 200 -
+2024-11-27 14:29:05,396 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 14:29:05,499 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:05] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 14:29:07,310 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:07] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:29:07,660 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:29:08,209 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:08] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:29:13,580 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:13] "GET /login HTTP/1.1" 200 -
+2024-11-27 14:29:13,843 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:13] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:29:20,058 - INFO - BEGIN (implicit)
+2024-11-27 14:29:20,059 - INFO - SELECT "user".id AS user_id, "user".username AS user_username, "user".password_hash AS user_password_hash, "user".role AS user_role 
+FROM "user" 
+WHERE "user".username = %(username_1)s 
+ LIMIT %(param_1)s
+2024-11-27 14:29:20,060 - INFO - [cached since 338.3s ago] {'username_1': 'admin', 'param_1': 1}
+2024-11-27 14:29:20,397 - INFO - User Login: User 'admin' logged in
+2024-11-27 14:29:20,398 - INFO - ROLLBACK
+2024-11-27 14:29:20,399 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:20] "POST /login HTTP/1.1" 200 -
+2024-11-27 14:29:21,898 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:21] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:29:22,147 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:29:24,582 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:24] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:29:24,930 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:24] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:29:25,341 - INFO - 127.0.0.1 - - [27/Nov/2024 14:29:25] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:30:38,478 - INFO - 127.0.0.1 - - [27/Nov/2024 14:30:38] "GET /login HTTP/1.1" 200 -
+2024-11-27 14:30:38,743 - INFO - 127.0.0.1 - - [27/Nov/2024 14:30:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:30:41,207 - INFO - 127.0.0.1 - - [27/Nov/2024 14:30:41] "GET /register HTTP/1.1" 200 -
+2024-11-27 14:30:41,554 - INFO - 127.0.0.1 - - [27/Nov/2024 14:30:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:30:43,239 - INFO - 127.0.0.1 - - [27/Nov/2024 14:30:43] "GET / HTTP/1.1" 200 -
+2024-11-27 14:30:43,587 - INFO - 127.0.0.1 - - [27/Nov/2024 14:30:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 14:30:43,588 - INFO - 127.0.0.1 - - [27/Nov/2024 14:30:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:37:44,505 - INFO - 127.0.0.1 - - [27/Nov/2024 14:37:44] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:37:44,766 - INFO - 127.0.0.1 - - [27/Nov/2024 14:37:44] "[36mGETy /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 14:37:44,879 - INFO - 127.0.0.1 - - [27/Nov/2024 14:37:44] "GET /courses HTTP/1.1" 200 -
+2024-11-27 14:43:04,163 - INFO - 127.0.0.1 - - [27/Nov/2024 14:43:04] "GET /register HTTP/1.1" 200 -
+2024-11-27 14:43:04,418 - INFO - 127.0.0.1 - - [27/Nov/2024 14:43:04] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:16:03,723 - INFO - select pg_catalog.version()
+2024-11-27 16:16:03,723 - INFO - [raw sql] {}
+2024-11-27 16:16:03,724 - INFO - select current_schema()
+2024-11-27 16:16:03,724 - INFO - [raw sql] {}
+2024-11-27 16:16:03,726 - INFO - show standard_conforming_strings
+2024-11-27 16:16:03,726 - INFO - [raw sql] {}
+2024-11-27 16:16:03,727 - INFO - BEGIN (implicit)
+2024-11-27 16:16:03,730 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:16:03,732 - INFO - [generated in 0.00121s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:16:03,736 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:16:03,736 - INFO - [cached since 0.006262s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:16:03,738 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:16:03,738 - INFO - [cached since 0.008197s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:16:03,740 - INFO - COMMIT
+2024-11-27 16:16:03,776 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 16:16:03,776 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 16:16:03,778 - INFO -  * Restarting with stat
+2024-11-27 16:16:04,637 - INFO - select pg_catalog.version()
+2024-11-27 16:16:04,637 - INFO - [raw sql] {}
+2024-11-27 16:16:04,639 - INFO - select current_schema()
+2024-11-27 16:16:04,639 - INFO - [raw sql] {}
+2024-11-27 16:16:04,639 - INFO - show standard_conforming_strings
+2024-11-27 16:16:04,640 - INFO - [raw sql] {}
+2024-11-27 16:16:04,640 - INFO - BEGIN (implicit)
+2024-11-27 16:16:04,643 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:16:04,644 - INFO - [generated in 0.00070s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:16:04,648 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:16:04,648 - INFO - [cached since 0.005058s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:16:04,649 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:16:04,650 - INFO - [cached since 0.006589s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:16:04,651 - INFO - COMMIT
+2024-11-27 16:16:04,668 - WARNING -  * Debugger is active!
+2024-11-27 16:16:04,675 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 16:16:41,316 - INFO - 127.0.0.1 - - [27/Nov/2024 16:16:41] "GET / HTTP/1.1" 200 -
+2024-11-27 16:16:41,620 - INFO - 127.0.0.1 - - [27/Nov/2024 16:16:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:16:41,670 - INFO - 127.0.0.1 - - [27/Nov/2024 16:16:41] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 16:16:42,113 - INFO - 127.0.0.1 - - [27/Nov/2024 16:16:42] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:16:44,809 - INFO - 127.0.0.1 - - [27/Nov/2024 16:16:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-27 16:16:45,856 - INFO - 127.0.0.1 - - [27/Nov/2024 16:16:45] "GET / HTTP/1.1" 200 -
+2024-11-27 16:16:46,195 - INFO - 127.0.0.1 - - [27/Nov/2024 16:16:46] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:16:46,196 - INFO - 127.0.0.1 - - [27/Nov/2024 16:16:46] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:16:46,600 - INFO - 127.0.0.1 - - [27/Nov/2024 16:16:46] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:18:32,878 - INFO -  * Detected change in 'c:\\Users\\SUPERTRONICA\\OneDrive - yachaytech.edu.ec\\Escritorio\\Final project\\app.py', reloading
+2024-11-27 16:18:32,971 - INFO -  * Restarting with stat
+2024-11-27 16:18:33,851 - INFO - select pg_catalog.version()
+2024-11-27 16:18:33,851 - INFO - [raw sql] {}
+2024-11-27 16:18:33,853 - INFO - select current_schema()
+2024-11-27 16:18:33,853 - INFO - [raw sql] {}
+2024-11-27 16:18:33,853 - INFO - show standard_conforming_strings
+2024-11-27 16:18:33,854 - INFO - [raw sql] {}
+2024-11-27 16:18:33,854 - INFO - BEGIN (implicit)
+2024-11-27 16:18:33,858 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:18:33,858 - INFO - [generated in 0.00084s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:18:33,861 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:18:33,862 - INFO - [cached since 0.005044s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:18:33,863 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:18:33,864 - INFO - [cached since 0.007102s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:18:33,865 - INFO - COMMIT
+2024-11-27 16:18:33,882 - WARNING -  * Debugger is active!
+2024-11-27 16:18:33,886 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 16:18:50,485 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:50] "GET / HTTP/1.1" 200 -
+2024-11-27 16:18:50,767 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:18:50,837 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:50] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 16:18:52,785 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:52] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:18:53,125 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:53] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:18:53,470 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:53] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:18:56,790 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:56] "GET /login HTTP/1.1" 200 -
+2024-11-27 16:18:57,037 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:57] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:18:59,295 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:59] "GET /register HTTP/1.1" 200 -
+2024-11-27 16:18:59,638 - INFO - 127.0.0.1 - - [27/Nov/2024 16:18:59] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:21:36,717 - INFO - 127.0.0.1 - - [27/Nov/2024 16:21:36] "GET /register HTTP/1.1" 200 -
+2024-11-27 16:21:36,983 - INFO - 127.0.0.1 - - [27/Nov/2024 16:21:36] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:21:39,665 - INFO - 127.0.0.1 - - [27/Nov/2024 16:21:39] "GET /login HTTP/1.1" 200 -
+2024-11-27 16:21:40,005 - INFO - 127.0.0.1 - - [27/Nov/2024 16:21:40] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:21:42,871 - INFO - 127.0.0.1 - - [27/Nov/2024 16:21:42] "GET /register HTTP/1.1" 200 -
+2024-11-27 16:21:43,208 - INFO - 127.0.0.1 - - [27/Nov/2024 16:21:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:21:50,203 - INFO - BEGIN (implicit)
+2024-11-27 16:21:50,205 - INFO - SELECT "user".id AS user_id, "user".username AS user_username, "user".password_hash AS user_password_hash, "user".role AS user_role 
+FROM "user" 
+WHERE "user".username = %(username_1)s 
+ LIMIT %(param_1)s
+2024-11-27 16:21:50,205 - INFO - [generated in 0.00080s] {'username_1': 'user1', 'param_1': 1}
+2024-11-27 16:21:50,482 - INFO - INSERT INTO "user" (username, password_hash, role) VALUES (%(username)s, %(password_hash)s, %(role)s) RETURNING "user".id
+2024-11-27 16:21:50,483 - INFO - [generated in 0.00081s] {'username': 'user1', 'password_hash': '$2b$12$L76MUXf0ICuNf9X10FFIPe2ZgUut8aSJpQ4XucPwpg6QOvJLYDJF.', 'role': 'user'}
+2024-11-27 16:21:50,487 - INFO - COMMIT
+2024-11-27 16:21:50,489 - INFO - User Registration: User 'user1' registered with role 'user'
+2024-11-27 16:21:50,489 - INFO - 127.0.0.1 - - [27/Nov/2024 16:21:50] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2024-11-27 16:25:46,085 - INFO -  * Detected change in 'c:\\Users\\SUPERTRONICA\\OneDrive - yachaytech.edu.ec\\Escritorio\\Final project\\app.py', reloading
+2024-11-27 16:25:46,191 - INFO -  * Restarting with stat
+2024-11-27 16:25:47,111 - INFO - select pg_catalog.version()
+2024-11-27 16:25:47,111 - INFO - [raw sql] {}
+2024-11-27 16:25:47,112 - INFO - select current_schema()
+2024-11-27 16:25:47,113 - INFO - [raw sql] {}
+2024-11-27 16:25:47,113 - INFO - show standard_conforming_strings
+2024-11-27 16:25:47,114 - INFO - [raw sql] {}
+2024-11-27 16:25:47,114 - INFO - BEGIN (implicit)
+2024-11-27 16:25:47,118 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:25:47,119 - INFO - [generated in 0.00081s] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:25:47,123 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:25:47,124 - INFO - [cached since 0.005896s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:25:47,125 - INFO - COMMIT
+2024-11-27 16:25:47,144 - WARNING -  * Debugger is active!
+2024-11-27 16:25:47,149 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 16:26:14,884 - INFO - 127.0.0.1 - - [27/Nov/2024 16:26:14] "GET / HTTP/1.1" 200 -
+2024-11-27 16:26:15,178 - INFO - 127.0.0.1 - - [27/Nov/2024 16:26:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:26:15,243 - INFO - 127.0.0.1 - - [27/Nov/2024 16:26:15] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 16:26:17,212 - INFO - 127.0.0.1 - - [27/Nov/2024 16:26:17] "GET /register HTTP/1.1" 200 -
+2024-11-27 16:26:17,546 - INFO - 127.0.0.1 - - [27/Nov/2024 16:26:17] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:26:19,438 - INFO - 127.0.0.1 - - [27/Nov/2024 16:26:19] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:26:19,791 - INFO - 127.0.0.1 - - [27/Nov/2024 16:26:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:26:20,174 - INFO - 127.0.0.1 - - [27/Nov/2024 16:26:20] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:27:35,913 - INFO -  * Detected change in 'c:\\Users\\SUPERTRONICA\\OneDrive - yachaytech.edu.ec\\Escritorio\\Final project\\app.py', reloading
+2024-11-27 16:27:36,030 - INFO -  * Restarting with stat
+2024-11-27 16:27:37,002 - INFO - select pg_catalog.version()
+2024-11-27 16:27:37,002 - INFO - [raw sql] {}
+2024-11-27 16:27:37,004 - INFO - select current_schema()
+2024-11-27 16:27:37,004 - INFO - [raw sql] {}
+2024-11-27 16:27:37,005 - INFO - show standard_conforming_strings
+2024-11-27 16:27:37,005 - INFO - [raw sql] {}
+2024-11-27 16:27:37,006 - INFO - BEGIN (implicit)
+2024-11-27 16:27:37,009 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:27:37,010 - INFO - [generated in 0.00086s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:27:37,014 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:27:37,015 - INFO - [cached since 0.005737s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:27:37,016 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:27:37,017 - INFO - [cached since 0.007856s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:27:37,018 - INFO - COMMIT
+2024-11-27 16:27:37,035 - WARNING -  * Debugger is active!
+2024-11-27 16:27:37,039 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 16:27:43,208 - INFO - 127.0.0.1 - - [27/Nov/2024 16:27:43] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:27:43,521 - INFO - 127.0.0.1 - - [27/Nov/2024 16:27:43] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 16:27:43,981 - INFO - 127.0.0.1 - - [27/Nov/2024 16:27:43] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:27:50,599 - INFO - 127.0.0.1 - - [27/Nov/2024 16:27:50] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:27:50,837 - INFO - 127.0.0.1 - - [27/Nov/2024 16:27:50] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:27:51,304 - INFO - 127.0.0.1 - - [27/Nov/2024 16:27:51] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:28:11,766 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:11] "[31m[1mPOST /courses HTTP/1.1[0m" 401 -
+2024-11-27 16:28:14,498 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:14] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:28:18,119 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:18] "GET /login HTTP/1.1" 200 -
+2024-11-27 16:28:18,371 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:18] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:28:25,037 - INFO - BEGIN (implicit)
+2024-11-27 16:28:25,040 - INFO - SELECT "user".id AS user_id, "user".username AS user_username, "user".password_hash AS user_password_hash, "user".role AS user_role 
+FROM "user" 
+WHERE "user".username = %(username_1)s 
+ LIMIT %(param_1)s
+2024-11-27 16:28:25,041 - INFO - [generated in 0.00089s] {'username_1': 'admin', 'param_1': 1}
+2024-11-27 16:28:25,314 - INFO - User Login: User 'admin' logged in
+2024-11-27 16:28:25,314 - INFO - ROLLBACK
+2024-11-27 16:28:25,314 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:25] "POST /login HTTP/1.1" 200 -
+2024-11-27 16:28:26,717 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:26] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:28:26,984 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:28:27,364 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:27] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:28:51,440 - INFO - BEGIN (implicit)
+2024-11-27 16:28:51,442 - INFO - INSERT INTO course (title, description, instructor, duration, enrollment_limit) VALUES (%(title)s, %(description)s, %(instructor)s, %(duration)s, %(enrollment_limit)s) RETURNING course.id
+2024-11-27 16:28:51,442 - INFO - [generated in 0.00057s] {'title': 'Lenguages de Programacion', 'description': 'Hola mundo', 'instructor': 'RIgoberto Fonseca', 'duration': 12, 'enrollment_limit': 12}
+2024-11-27 16:28:51,445 - INFO - COMMIT
+2024-11-27 16:28:51,448 - INFO - Course Created: Course 'Lenguages de Programacion' created by admin
+2024-11-27 16:28:51,448 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:51] "[35m[1mPOST /courses HTTP/1.1[0m" 201 -
+2024-11-27 16:28:52,589 - INFO - 127.0.0.1 - - [27/Nov/2024 16:28:52] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:35:44,468 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:44] "GET / HTTP/1.1" 200 -
+2024-11-27 16:35:44,711 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:44] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-11-27 16:35:44,845 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:44] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-11-27 16:35:44,846 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:44] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-11-27 16:35:44,847 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:35:45,846 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:45] "[33mGET /static/img/logo-icon.png HTTP/1.1[0m" 404 -
+2024-11-27 16:35:51,631 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:51] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:35:51,895 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:51] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:35:52,267 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:52] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:35:56,882 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:56] "[33mGET /users HTTP/1.1[0m" 404 -
+2024-11-27 16:35:59,626 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:59] "GET /register HTTP/1.1" 200 -
+2024-11-27 16:35:59,964 - INFO - 127.0.0.1 - - [27/Nov/2024 16:35:59] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:36:01,964 - INFO - 127.0.0.1 - - [27/Nov/2024 16:36:01] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-11-27 16:36:13,506 - INFO - 127.0.0.1 - - [27/Nov/2024 16:36:13] "[33mGET /profile HTTP/1.1[0m" 404 -
+2024-11-27 16:36:49,047 - INFO - 127.0.0.1 - - [27/Nov/2024 16:36:49] "GET / HTTP/1.1" 200 -
+2024-11-27 16:36:49,387 - INFO - 127.0.0.1 - - [27/Nov/2024 16:36:49] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-11-27 16:36:49,387 - INFO - 127.0.0.1 - - [27/Nov/2024 16:36:49] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-11-27 16:36:49,388 - INFO - 127.0.0.1 - - [27/Nov/2024 16:36:49] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:36:49,389 - INFO - 127.0.0.1 - - [27/Nov/2024 16:36:49] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:37:19,442 - INFO - 127.0.0.1 - - [27/Nov/2024 16:37:19] "GET / HTTP/1.1" 200 -
+2024-11-27 16:37:19,780 - INFO - 127.0.0.1 - - [27/Nov/2024 16:37:19] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-11-27 16:37:19,782 - INFO - 127.0.0.1 - - [27/Nov/2024 16:37:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:37:19,782 - INFO - 127.0.0.1 - - [27/Nov/2024 16:37:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:37:19,784 - INFO - 127.0.0.1 - - [27/Nov/2024 16:37:19] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-11-27 16:38:11,070 - INFO - 127.0.0.1 - - [27/Nov/2024 16:38:11] "GET / HTTP/1.1" 200 -
+2024-11-27 16:38:11,408 - INFO - 127.0.0.1 - - [27/Nov/2024 16:38:11] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-11-27 16:38:11,409 - INFO - 127.0.0.1 - - [27/Nov/2024 16:38:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:38:11,410 - INFO - 127.0.0.1 - - [27/Nov/2024 16:38:11] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-11-27 16:38:11,410 - INFO - 127.0.0.1 - - [27/Nov/2024 16:38:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:39:22,036 - INFO - 127.0.0.1 - - [27/Nov/2024 16:39:22] "[33mGET /users HTTP/1.1[0m" 404 -
+2024-11-27 16:39:24,715 - INFO - 127.0.0.1 - - [27/Nov/2024 16:39:24] "GET /register HTTP/1.1" 200 -
+2024-11-27 16:39:25,056 - INFO - 127.0.0.1 - - [27/Nov/2024 16:39:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:39:54,887 - INFO - 127.0.0.1 - - [27/Nov/2024 16:39:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:47:11,444 - INFO - 127.0.0.1 - - [27/Nov/2024 16:47:11] "[33mGET /certificates HTTP/1.1[0m" 404 -
+2024-11-27 16:47:13,506 - INFO - 127.0.0.1 - - [27/Nov/2024 16:47:13] "[33mGET /learning-paths HTTP/1.1[0m" 404 -
+2024-11-27 16:47:15,542 - INFO - 127.0.0.1 - - [27/Nov/2024 16:47:15] "[33mGET /courses/recommended HTTP/1.1[0m" 404 -
+2024-11-27 16:47:21,821 - INFO - 127.0.0.1 - - [27/Nov/2024 16:47:21] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-11-27 16:53:22,934 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:22] "GET / HTTP/1.1" 200 -
+2024-11-27 16:53:23,200 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:53:23,308 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:23] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-11-27 16:53:23,309 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:23] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-11-27 16:53:23,335 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:23] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 16:53:32,071 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:32] "[33mGET /certificates HTTP/1.1[0m" 404 -
+2024-11-27 16:53:34,237 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:34] "[33mGET /courses/recommended HTTP/1.1[0m" 404 -
+2024-11-27 16:53:36,491 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:36] "[33mGET /users HTTP/1.1[0m" 404 -
+2024-11-27 16:53:38,296 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:38] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-11-27 16:53:41,294 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:41] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:53:41,630 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:53:41,994 - INFO - 127.0.0.1 - - [27/Nov/2024 16:53:41] "GET /courses HTTP/1.1" 200 -
+2024-11-27 16:54:05,191 - INFO - 127.0.0.1 - - [27/Nov/2024 16:54:05] "GET / HTTP/1.1" 200 -
+2024-11-27 16:54:05,459 - INFO - 127.0.0.1 - - [27/Nov/2024 16:54:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:54:05,523 - INFO - 127.0.0.1 - - [27/Nov/2024 16:54:05] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-11-27 16:54:05,525 - INFO - 127.0.0.1 - - [27/Nov/2024 16:54:05] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 16:54:05,527 - INFO - 127.0.0.1 - - [27/Nov/2024 16:54:05] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-11-27 16:54:07,420 - INFO - 127.0.0.1 - - [27/Nov/2024 16:54:07] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-11-27 16:54:13,980 - INFO - 127.0.0.1 - - [27/Nov/2024 16:54:13] "[33mGET /profile HTTP/1.1[0m" 404 -
+2024-11-27 16:54:16,912 - INFO - 127.0.0.1 - - [27/Nov/2024 16:54:16] "[33mGET /settings HTTP/1.1[0m" 404 -
+2024-11-27 16:57:32,438 - INFO -  * Detected change in 'c:\\Users\\SUPERTRONICA\\OneDrive - yachaytech.edu.ec\\Escritorio\\Final project\\app.py', reloading
+2024-11-27 16:57:32,546 - INFO -  * Restarting with stat
+2024-11-27 16:58:11,231 - INFO - select pg_catalog.version()
+2024-11-27 16:58:11,232 - INFO - [raw sql] {}
+2024-11-27 16:58:11,233 - INFO - select current_schema()
+2024-11-27 16:58:11,233 - INFO - [raw sql] {}
+2024-11-27 16:58:11,234 - INFO - show standard_conforming_strings
+2024-11-27 16:58:11,234 - INFO - [raw sql] {}
+2024-11-27 16:58:11,234 - INFO - BEGIN (implicit)
+2024-11-27 16:58:11,238 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:58:11,238 - INFO - [generated in 0.00081s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:58:11,242 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:58:11,242 - INFO - [cached since 0.004853s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:58:11,243 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:58:11,244 - INFO - [cached since 0.006555s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:58:11,245 - INFO - COMMIT
+2024-11-27 16:58:11,283 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-27 16:58:11,283 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-27 16:58:11,285 - INFO -  * Restarting with stat
+2024-11-27 16:58:12,170 - INFO - select pg_catalog.version()
+2024-11-27 16:58:12,171 - INFO - [raw sql] {}
+2024-11-27 16:58:12,172 - INFO - select current_schema()
+2024-11-27 16:58:12,172 - INFO - [raw sql] {}
+2024-11-27 16:58:12,173 - INFO - show standard_conforming_strings
+2024-11-27 16:58:12,173 - INFO - [raw sql] {}
+2024-11-27 16:58:12,174 - INFO - BEGIN (implicit)
+2024-11-27 16:58:12,177 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:58:12,178 - INFO - [generated in 0.00075s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:58:12,182 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:58:12,183 - INFO - [cached since 0.005368s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:58:12,184 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 16:58:12,185 - INFO - [cached since 0.007641s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 16:58:12,186 - INFO - COMMIT
+2024-11-27 16:58:12,205 - WARNING -  * Debugger is active!
+2024-11-27 16:58:12,210 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 16:58:15,751 - INFO - 127.0.0.1 - - [27/Nov/2024 16:58:15] "GET / HTTP/1.1" 200 -
+2024-11-27 16:58:16,057 - INFO - 127.0.0.1 - - [27/Nov/2024 16:58:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 16:58:16,149 - INFO - 127.0.0.1 - - [27/Nov/2024 16:58:16] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-11-27 16:58:16,151 - INFO - 127.0.0.1 - - [27/Nov/2024 16:58:16] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-11-27 16:58:16,179 - INFO - 127.0.0.1 - - [27/Nov/2024 16:58:16] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-11-27 17:03:54,070 - INFO -  * Detected change in 'c:\\Users\\SUPERTRONICA\\OneDrive - yachaytech.edu.ec\\Escritorio\\Final project\\app.py', reloading
+2024-11-27 17:03:54,188 - INFO -  * Restarting with stat
+2024-11-27 17:03:55,167 - INFO - select pg_catalog.version()
+2024-11-27 17:03:55,168 - INFO - [raw sql] {}
+2024-11-27 17:03:55,169 - INFO - select current_schema()
+2024-11-27 17:03:55,169 - INFO - [raw sql] {}
+2024-11-27 17:03:55,169 - INFO - show standard_conforming_strings
+2024-11-27 17:03:55,169 - INFO - [raw sql] {}
+2024-11-27 17:03:55,170 - INFO - BEGIN (implicit)
+2024-11-27 17:03:55,174 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 17:03:55,175 - INFO - [generated in 0.00125s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 17:03:55,178 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 17:03:55,179 - INFO - [cached since 0.005834s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 17:03:55,181 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-11-27 17:03:55,181 - INFO - [cached since 0.007819s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-11-27 17:03:55,183 - INFO - COMMIT
+2024-11-27 17:03:55,203 - WARNING -  * Debugger is active!
+2024-11-27 17:03:55,207 - INFO -  * Debugger PIN: 758-029-687
+2024-11-27 17:16:21,224 - INFO - 127.0.0.1 - - [27/Nov/2024 17:16:21] "GET /health/liveness HTTP/1.1" 200 -
+2024-11-27 17:17:21,894 - INFO - 127.0.0.1 - - [27/Nov/2024 17:17:21] "[35m[1mGET /health/readiness HTTP/1.1[0m" 500 -
+2024-11-27 17:23:26,795 - INFO - 127.0.0.1 - - [27/Nov/2024 17:23:26] "GET / HTTP/1.1" 200 -
+2024-11-27 17:23:27,103 - INFO - 127.0.0.1 - - [27/Nov/2024 17:23:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-11-27 17:23:27,193 - INFO - 127.0.0.1 - - [27/Nov/2024 17:23:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-11-27 17:23:27,242 - INFO - 127.0.0.1 - - [27/Nov/2024 17:23:27] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-11-27 17:23:27,245 - INFO - 127.0.0.1 - - [27/Nov/2024 17:23:27] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-11-27 17:23:46,355 - INFO - 127.0.0.1 - - [27/Nov/2024 17:23:46] "[35m[1mGET /health/readiness HTTP/1.1[0m" 500 -
+2024-11-27 17:27:44,279 - INFO - 127.0.0.1 - - [27/Nov/2024 17:27:44] "[35m[1mGET /health/readiness HTTP/1.1[0m" 500 -
+2024-12-03 10:44:04,449 - INFO - select pg_catalog.version()
+2024-12-03 10:44:04,450 - INFO - [raw sql] {}
+2024-12-03 10:44:04,456 - INFO - select current_schema()
+2024-12-03 10:44:04,456 - INFO - [raw sql] {}
+2024-12-03 10:44:04,460 - INFO - show standard_conforming_strings
+2024-12-03 10:44:04,460 - INFO - [raw sql] {}
+2024-12-03 10:44:04,462 - INFO - BEGIN (implicit)
+2024-12-03 10:44:04,467 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:44:04,468 - INFO - [generated in 0.00149s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:44:04,480 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:44:04,482 - INFO - [cached since 0.01525s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:44:04,483 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:44:04,484 - INFO - [cached since 0.01785s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:44:04,486 - INFO - COMMIT
+2024-12-03 10:44:04,556 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-03 10:44:04,558 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-03 10:44:04,561 - INFO -  * Restarting with stat
+2024-12-03 10:44:05,869 - INFO - select pg_catalog.version()
+2024-12-03 10:44:05,870 - INFO - [raw sql] {}
+2024-12-03 10:44:05,871 - INFO - select current_schema()
+2024-12-03 10:44:05,872 - INFO - [raw sql] {}
+2024-12-03 10:44:05,873 - INFO - show standard_conforming_strings
+2024-12-03 10:44:05,874 - INFO - [raw sql] {}
+2024-12-03 10:44:05,875 - INFO - BEGIN (implicit)
+2024-12-03 10:44:05,880 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:44:05,881 - INFO - [generated in 0.00136s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:44:05,886 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:44:05,887 - INFO - [cached since 0.007768s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:44:05,889 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:44:05,890 - INFO - [cached since 0.01024s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:44:05,891 - INFO - COMMIT
+2024-12-03 10:44:05,918 - WARNING -  * Debugger is active!
+2024-12-03 10:44:05,925 - INFO -  * Debugger PIN: 758-029-687
+2024-12-03 10:44:10,322 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:10] "GET / HTTP/1.1" 200 -
+2024-12-03 10:44:10,631 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:10] "GET /static/css/styles.css HTTP/1.1" 200 -
+2024-12-03 10:44:10,692 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:10] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-12-03 10:44:10,718 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:10] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-12-03 10:44:10,753 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:10] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-12-03 10:44:11,803 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:11] "[33mGET /static/img/logo-icon.png HTTP/1.1[0m" 404 -
+2024-12-03 10:44:15,548 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:15] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:44:15,783 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:15] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-12-03 10:44:16,482 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:16] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:44:19,179 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-03 10:44:33,340 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:33] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:44:33,677 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:33] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-12-03 10:44:34,335 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:34] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:44:44,747 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:44] "[33mGET /users HTTP/1.1[0m" 404 -
+2024-12-03 10:44:47,676 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:47] "GET /register HTTP/1.1" 200 -
+2024-12-03 10:44:48,017 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:48] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-12-03 10:44:50,658 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:50] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2024-12-03 10:44:56,943 - INFO - 127.0.0.1 - - [03/Dec/2024 10:44:56] "[33mGET /profile HTTP/1.1[0m" 404 -
+2024-12-03 10:47:05,560 - INFO -  * Detected change in 'c:\\Users\\SUPERTRONICA\\OneDrive - yachaytech.edu.ec\\Escritorio\\Final project\\app.py', reloading
+2024-12-03 10:47:05,702 - INFO -  * Restarting with stat
+2024-12-03 10:47:07,122 - INFO - select pg_catalog.version()
+2024-12-03 10:47:07,123 - INFO - [raw sql] {}
+2024-12-03 10:47:07,125 - INFO - select current_schema()
+2024-12-03 10:47:07,125 - INFO - [raw sql] {}
+2024-12-03 10:47:07,126 - INFO - show standard_conforming_strings
+2024-12-03 10:47:07,127 - INFO - [raw sql] {}
+2024-12-03 10:47:07,128 - INFO - BEGIN (implicit)
+2024-12-03 10:47:07,133 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:47:07,134 - INFO - [generated in 0.00135s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:47:07,140 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:47:07,141 - INFO - [cached since 0.007383s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:47:07,142 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:47:07,143 - INFO - [cached since 0.01s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:47:07,144 - INFO - COMMIT
+2024-12-03 10:47:07,170 - WARNING -  * Debugger is active!
+2024-12-03 10:47:07,175 - INFO -  * Debugger PIN: 758-029-687
+2024-12-03 10:47:10,809 - INFO - 127.0.0.1 - - [03/Dec/2024 10:47:10] "GET / HTTP/1.1" 200 -
+2024-12-03 10:47:11,127 - INFO - 127.0.0.1 - - [03/Dec/2024 10:47:11] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-12-03 10:47:11,256 - INFO - 127.0.0.1 - - [03/Dec/2024 10:47:11] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-12-03 10:47:11,334 - INFO - 127.0.0.1 - - [03/Dec/2024 10:47:11] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-12-03 10:47:11,336 - INFO - 127.0.0.1 - - [03/Dec/2024 10:47:11] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-12-03 10:47:13,817 - INFO - 127.0.0.1 - - [03/Dec/2024 10:47:13] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:47:14,161 - INFO - 127.0.0.1 - - [03/Dec/2024 10:47:14] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-12-03 10:47:14,694 - INFO - 127.0.0.1 - - [03/Dec/2024 10:47:14] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:48:44,501 - INFO - 127.0.0.1 - - [03/Dec/2024 10:48:44] "[33mGET /learning-paths HTTP/1.1[0m" 404 -
+2024-12-03 10:53:10,892 - INFO - select pg_catalog.version()
+2024-12-03 10:53:10,892 - INFO - [raw sql] {}
+2024-12-03 10:53:10,894 - INFO - select current_schema()
+2024-12-03 10:53:10,894 - INFO - [raw sql] {}
+2024-12-03 10:53:10,895 - INFO - show standard_conforming_strings
+2024-12-03 10:53:10,895 - INFO - [raw sql] {}
+2024-12-03 10:53:10,897 - INFO - BEGIN (implicit)
+2024-12-03 10:53:10,901 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:53:10,902 - INFO - [generated in 0.00137s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:53:10,907 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:53:10,908 - INFO - [cached since 0.007632s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:53:10,910 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:53:10,911 - INFO - [cached since 0.01016s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:53:10,912 - INFO - COMMIT
+2024-12-03 10:53:10,961 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-03 10:53:10,961 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-03 10:53:10,963 - INFO -  * Restarting with stat
+2024-12-03 10:53:12,237 - INFO - select pg_catalog.version()
+2024-12-03 10:53:12,239 - INFO - [raw sql] {}
+2024-12-03 10:53:12,240 - INFO - select current_schema()
+2024-12-03 10:53:12,240 - INFO - [raw sql] {}
+2024-12-03 10:53:12,241 - INFO - show standard_conforming_strings
+2024-12-03 10:53:12,241 - INFO - [raw sql] {}
+2024-12-03 10:53:12,242 - INFO - BEGIN (implicit)
+2024-12-03 10:53:12,246 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:53:12,247 - INFO - [generated in 0.00118s] {'table_name': 'role', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:53:12,253 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:53:12,254 - INFO - [cached since 0.007321s ago] {'table_name': 'user', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:53:12,255 - INFO - SELECT pg_catalog.pg_class.relname 
+FROM pg_catalog.pg_class JOIN pg_catalog.pg_namespace ON pg_catalog.pg_namespace.oid = pg_catalog.pg_class.relnamespace 
+WHERE pg_catalog.pg_class.relname = %(table_name)s AND pg_catalog.pg_class.relkind = ANY (ARRAY[%(param_1)s, %(param_2)s, %(param_3)s, %(param_4)s, %(param_5)s]) AND pg_catalog.pg_table_is_visible(pg_catalog.pg_class.oid) AND pg_catalog.pg_namespace.nspname != %(nspname_1)s
+2024-12-03 10:53:12,256 - INFO - [cached since 0.01014s ago] {'table_name': 'course', 'param_1': 'r', 'param_2': 'p', 'param_3': 'f', 'param_4': 'v', 'param_5': 'm', 'nspname_1': 'pg_catalog'}
+2024-12-03 10:53:12,258 - INFO - COMMIT
+2024-12-03 10:53:12,285 - WARNING -  * Debugger is active!
+2024-12-03 10:53:12,291 - INFO -  * Debugger PIN: 758-029-687
+2024-12-03 10:53:17,837 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:17] "GET / HTTP/1.1" 200 -
+2024-12-03 10:53:18,158 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:18] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-12-03 10:53:18,224 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:18] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-12-03 10:53:18,227 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:18] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-12-03 10:53:18,248 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:18] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-12-03 10:53:26,326 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:26] "[33mGET /logout HTTP/1.1[0m" 404 -
+2024-12-03 10:53:30,041 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:30] "[33mGET /profile HTTP/1.1[0m" 404 -
+2024-12-03 10:53:33,231 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:33] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:53:33,599 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:33] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-12-03 10:53:34,189 - INFO - 127.0.0.1 - - [03/Dec/2024 10:53:34] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:54:03,764 - INFO - 127.0.0.1 - - [03/Dec/2024 10:54:03] "[33mGET /courses/my-courses HTTP/1.1[0m" 404 -
+2024-12-03 10:54:05,867 - INFO - 127.0.0.1 - - [03/Dec/2024 10:54:05] "[33mGET /courses/create HTTP/1.1[0m" 404 -
+2024-12-03 10:54:09,418 - INFO - 127.0.0.1 - - [03/Dec/2024 10:54:09] "[33mGET /courses/create HTTP/1.1[0m" 404 -
+2024-12-03 10:54:12,025 - INFO - 127.0.0.1 - - [03/Dec/2024 10:54:12] "[33mGET /users HTTP/1.1[0m" 404 -
+2024-12-03 10:54:14,287 - INFO - 127.0.0.1 - - [03/Dec/2024 10:54:14] "GET /register HTTP/1.1" 200 -
+2024-12-03 10:54:14,552 - INFO - 127.0.0.1 - - [03/Dec/2024 10:54:14] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-12-03 10:55:07,281 - INFO - 127.0.0.1 - - [03/Dec/2024 10:55:07] "GET / HTTP/1.1" 200 -
+2024-12-03 10:55:07,628 - INFO - 127.0.0.1 - - [03/Dec/2024 10:55:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2024-12-03 10:55:07,632 - INFO - 127.0.0.1 - - [03/Dec/2024 10:55:07] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+2024-12-03 10:55:07,635 - INFO - 127.0.0.1 - - [03/Dec/2024 10:55:07] "[33mGET /static/img/user-avatar.png HTTP/1.1[0m" 404 -
+2024-12-03 10:55:07,664 - INFO - 127.0.0.1 - - [03/Dec/2024 10:55:07] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-12-03 10:55:09,787 - INFO - 127.0.0.1 - - [03/Dec/2024 10:55:09] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:55:10,147 - INFO - 127.0.0.1 - - [03/Dec/2024 10:55:10] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-12-03 10:55:10,655 - INFO - 127.0.0.1 - - [03/Dec/2024 10:55:10] "GET /courses HTTP/1.1" 200 -
+2024-12-03 10:58:01,112 - INFO - 127.0.0.1 - - [03/Dec/2024 10:58:01] "GET /courses HTTP/1.1" 200 -
